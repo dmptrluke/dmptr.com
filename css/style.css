@@ -1,0 +1,39 @@
+body {
+    background: #2c3840;
+    color: #fefefe;
+	font-family: sans-serif;
+}
+
+section {
+    max-width: 75rem;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 50px;
+
+    padding: 20px;
+}
+
+#title {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    display: block;
+    float:left;
+}
+
+nav {
+    display: block;
+    float: right;
+}
+
+    nav span {
+        float:left;
+        margin-right: 1rem;
+        margin-top: 15px;
+    }
+
+    nav span a {
+        color: #fefefe;
+        font-size: 1.1rem;
+        text-decoration: none;
+    }
